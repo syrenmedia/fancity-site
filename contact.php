@@ -21,11 +21,11 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 
   }
 
+  $email_headers = "From: $name <$email>";
+
   $email_content = "Name: $name\n";
   $email_content .= "Email: $email\n\n";
   $email_content .= "Message:\n$message\n";
-
-  $email_headers = "From: $name <$email>";
 
   if(mail($recipient, $subject, $email_content, $email_headers)) {
 

@@ -76,7 +76,6 @@
               <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
               <li><a href="https://www.angel.co/" target="_blank"><i class="fa fa-angellist"></i></a></li>
-              <li><a href="https://www.google.com/" target="_blank"><i class="fa fa-google-plus"></i></a></li>
               <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a></li>
               <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-vimeo"></i></a></li>
             </ul>
@@ -216,7 +215,6 @@
                 <li><a href="https://twitter.com/CalleyNye" target="_blank"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="https://www.linkedin.com/in/calleynye" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 <li><a href="https://www.facebook.com/calleynye" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://plus.google.com/u/1/+CalleyNye" target="_blank"><i class="fa fa-google-plus"></i></a></li>
                 <li><a href="https://angel.co/calleynye" target="_blank"><i class="fa fa-angellist"></i></a></li>
                 <li><a href="https://github.com/syren" target="_blank"><i class="fa fa-github"></i></a></li>
               </ul>
@@ -241,7 +239,6 @@
                 <li><a href="https://twitter.com/sdk1221" target="_blank"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="https://www.linkedin.com/in/stevenkornblum" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                 <li><a href="https://www.facebook.com/steven.kornblum" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://plus.google.com/u/1/+StevenKornblum" target="_blank"><i class="fa fa-google-plus"></i></a></li>
                 <li><a href="https://angel.co/steven-kornblum" target="_blank"><i class="fa fa-angellist"></i></a></li>
                 <li><a href="https://github.com/mobianboy" target="_blank"><i class="fa fa-github"></i></a></li>
               </ul>
@@ -301,7 +298,6 @@
               <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
               <li><a href="https://www.angel.co/" target="_blank"><i class="fa fa-angellist"></i></a></li>
-              <li><a href="https://www.google.com/" target="_blank"><i class="fa fa-google-plus"></i></a></li>
               <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a></li>
               <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-vimeo"></i></a></li>
             </ul>

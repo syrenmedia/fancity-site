@@ -266,7 +266,7 @@
            
             <!--Contact form-->
             <div id="form-messages"></div>
-            <form class="slide-right contact-form text-center" method="post" action="php/process.php" role="form" id="ajax-contact">
+            <form class="slide-right contact-form text-center" method="post" action="contact.php" role="form" id="ajax-contact">
               <div class="form-group">
                 <input class="form-control" type="text" name="name" id="name" placeholder="Full Name" required>
               </div>

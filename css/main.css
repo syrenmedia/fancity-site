@@ -61,6 +61,12 @@ li {
 .logo,
 .head-hero h1 { text-align: center; }
 
+.slogan {
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+}
+
 .highlight { font-weight: 400; }
 
 .overlay {
@@ -77,8 +83,6 @@ li {
   background: linear-gradient(135deg, rgba(0,153,204,0.5) 0%, rgba(255,193,77,0.5) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#800099cc', endColorstr='#80ffc14d', GradientType=1 );
 }
-
-.logo { margin-bottom: 1.6em; }
 
 .head-hero h1 {
   font-size: 36.492px;
@@ -317,6 +321,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#800099cc', e
 
 .team-details figcaption p { margin-top: 1.6em; }
 
+.team-details .quoted-word:before {
+  content: "\0022";
+  font-size: 1.5em;
+  line-height: 25px;
+  vertical-align: bottom;
+}
+
+.team-details .quoted-word:after {
+  content: "\0022";
+  font-size: 1.5em;
+  line-height: 25px;
+  vertical-align: bottom;
+}
+
 .team .social { margin-top: 1.6em; }
 
 .team .slick-dots { bottom: -4em; }
@@ -408,6 +426,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#800099cc', e
 .team .slick-slider { margin-bottom: 4em; }
 }
 
+.slogan {
+}
+
 /* ==========================================================================
    Medium devices (desktops, 992px and up) 
    ========================================================================== */
@@ -423,10 +444,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#800099cc', e
   background-size: cover;
 }
 
+.slogan,
 .logo,
 .head-hero h1 { text-align: left; }
 
-.logo { margin: 0.8em 0 3.2em; }
+.logo {
+  margin: 0.8em 0 0 -20px;
+  float: left;
+}
+
+.slogan {
+  float: left;
+  margin-top: 102px;
+  margin-left: -30px;
+}
 
 .hero-img {
   margin-top: -3.2em;

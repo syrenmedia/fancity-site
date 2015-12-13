@@ -13,7 +13,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
   $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
   $message = trim($_POST["message"]);
 
-  if( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
+  if(empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
     header("HTTP/1.1 400 Bad Request");
     echo "Oops! There was a problem with your submission. Please complete the form and try again.";

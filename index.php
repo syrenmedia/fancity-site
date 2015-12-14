@@ -119,22 +119,22 @@
                   <div class="slide-left app-features row">
                     <div class="col-md-3 col-md-offset-1 col-sm-3 col-xs-3 text-center"><img src="img/icon-1.png" alt="App Features"></div>
                     <div class="col-md-8 col-sm-9 col-xs-9">
-                      <h4>Lorem Lpsum</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, beatae, esse, aspernatur, alias odio numquam incidunt perspiciatis aliquid voluptate sapiente magnam eum blanditiis.</p>
+                      <h4>Meet fellow fans</h4>
+                      <p>Find others who share the same passion for your favorite team!</p>
                     </div>
                   </div>
                   <div class="slide-left app-features row">
                     <div class="col-md-3 col-md-offset-1 col-sm-3 col-xs-3 text-center"><img src="img/icon-2.png" alt="App Features"></div>
                     <div class="col-md-8 col-sm-9 col-xs-9">
-                      <h4>Lorem Lpsum</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, beatae, esse, aspernatur, alias odio numquam incidunt perspiciatis aliquid voluptate sapiente magnam eum blanditiis.</p>
+                      <h4>Join the converstaion</h4>
+                      <p>Discuss the big game, debate that controversial trade and share your opinions on the latest news about your favorite team.</p>
                     </div>
                   </div>
                   <div class="slide-left app-features row">
                     <div class="col-md-3 col-md-offset-1 col-sm-3 col-xs-3 text-center"><img src="img/icon-3.png" alt="App Features"></div>
                     <div class="col-md-8 col-sm-9 col-xs-9">
-                      <h4>Lorem Lpsum</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, beatae, esse, aspernatur, alias odio numquam incidunt perspiciatis aliquid voluptate sapiente magnam eum blanditiis.</p>
+                      <h4>Find local hangouts</h4>
+                      <p>Join your fellow fans as you cheer on your favorite team at a sports bar near you.</p>
                     </div>
                   </div>
                 </div>
@@ -157,22 +157,22 @@
                   <div class="app-features row">
                     <div class="col-md-3 col-md-offset-1 col-sm-3 col-xs-3 text-center"><img src="img/icon-4.png" alt="App Features"></div>
                     <div class="col-md-8 col-sm-9 col-xs-9">
-                      <h4>Lorem Lpsum</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, beatae, esse, aspernatur, alias odio numquam incidunt perspiciatis aliquid voluptate sapiente magnam eum blanditiis.</p>
+                      <h4>Stay up to date</h4>
+                      <p>Get the latest scores, news and updates for your favorite team.</p>
                     </div>
                   </div>
                   <div class="app-features row">
                     <div class="col-md-3 col-md-offset-1 col-sm-3 col-xs-3 text-center"><img src="img/icon-5.png" alt="App Features"></div>
                     <div class="col-md-8 col-sm-9 col-xs-9">
-                      <h4>Lorem Lpsum</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, beatae, esse, aspernatur, alias odio numquam incidunt perspiciatis aliquid voluptate sapiente magnam eum blanditiis.</p>
+                      <h4>Play games</h4>
+                      <p>Challenge your friends to quizzes, games and more.</p>
                     </div>
                   </div>
                   <div class="app-features row">
                     <div class="col-md-3 col-md-offset-1 col-sm-3 col-xs-3 text-center"><img src="img/icon-6.png" alt="App Features"></div>
                     <div class="col-md-8 col-sm-9 col-xs-9">
-                      <h4>Lorem Lpsum</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, beatae, esse, aspernatur, alias odio numquam incidunt perspiciatis aliquid voluptate sapiente magnam eum blanditiis.</p>
+                      <h4>Earn rewards</h4>
+                      <p>Get points for posting, sharing and checking in to increase your status and earn prizes.</p>
                     </div>
                   </div>
                 </div>

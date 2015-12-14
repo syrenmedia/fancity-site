@@ -2,8 +2,8 @@
 <html>
 
   <head>
-    <title>FanCity - Find your fan city, at home or on the road...</title>
-    <meta name="description" content="FanCity - Find your fan city, at home or on the road...">
+    <title>FanCity - Find yours, at home or on the road...</title>
+    <meta name="description" content="FanCity - Find yours, at home or on the road...">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,600' rel='stylesheet'>
@@ -29,7 +29,7 @@
             <div class="logo"> <a href="/"><img src="img/logo.png" width="300" alt="fancity"></a></div>
             <!--logo end-->
            
-            <div class="slogan">Find your fan city, at home or on the road...</div>
+            <div class="slogan">Find yours, at home or on the road...</div>
 
           </div>
         </div>

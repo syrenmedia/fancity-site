@@ -1,4 +1,9 @@
 
-.form-control { padding: 1.01em 12px; }
+.form-control {
+  padding: 1.01em 12px;
+}
 
-.gradient { filter: none; }
+.gradient {
+  filter: none;
+}
+

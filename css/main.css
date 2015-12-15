@@ -106,6 +106,7 @@ li {
   color: #fff;
   background: #4A8B3C;
   border-radius: 5px;
+  border-color: #4A8B3C;
   -webkit-transition: background .5s ease-in, border-color .5s ease-in;
   transition: background .5s ease-in, border-color .5s ease-in;
   display: inline-block;

@@ -1,3 +1,9 @@
+<?php
+
+// Required for date functionality in PHP
+date_default_timezone_set('America/Los_Angeles');
+
+?>
 <!DOCTYPE html>
 <html>
 

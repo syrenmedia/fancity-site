@@ -78,12 +78,12 @@ date_default_timezone_set('America/Los_Angeles');
            
             <!--social-->
             <ul class="social text-center">
-              <li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
               <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
               <li><a href="https://www.angel.co/" target="_blank"><i class="fa fa-angellist"></i></a></li>
               <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a></li>
-              <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-vimeo"></i></a></li>
+              <li><a href="https://www.vimeo.com/" target="_blank"><i class="fa fa-vimeo"></i></a></li>
             </ul>
             <!--social end-->
         
@@ -300,12 +300,12 @@ date_default_timezone_set('America/Los_Angeles');
 
             <!--social-->
             <ul class="social">
-              <li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
               <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
               <li><a href="https://www.angel.co/" target="_blank"><i class="fa fa-angellist"></i></a></li>
               <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-youtube"></i></a></li>
-              <li><a href="https://www.youtube.com/" target="_blank"><i class="fa fa-vimeo"></i></a></li>
+              <li><a href="https://www.vimeo.com/" target="_blank"><i class="fa fa-vimeo"></i></a></li>
             </ul>
             <!--social end-->
            

@@ -147,7 +147,7 @@ date_default_timezone_set('America/Los_Angeles');
                 <!--app features container end-->
                
               </div>
-              <div class="col-md-4 text-center"> <img src="img/fancity-feature-1.png" alt="App Feature img" class="slide-right"> </div>
+              <div class="col-md-4 text-center"> <img src="img/fancity-feature-1.png" alt="App Feature img"> </div>
             </div>
           </div>
           <!--features content 1 end -->
@@ -206,7 +206,7 @@ date_default_timezone_set('America/Los_Angeles');
           <div class="team-slider">
             
             <!--member-->
-            <div class="slide-right">
+            <div>
               <h3>Calley Nye</h3>
               <figure class="team-details">
                 <img src="img/team-img/calley-profile-pic.jpg" alt="Calley Nye - Founder, CEO">
@@ -230,7 +230,7 @@ date_default_timezone_set('America/Los_Angeles');
             <!--member end-->
          
             <!--member-->
-            <div class="slide-right">
+            <div>
               <h3>Steven Kornblum</h3>
               <figure class="team-details">
                 <img src="img/team-img/sdk-profile-pic.jpg" alt="Steven Kornblum - Founder, COO">
@@ -269,7 +269,7 @@ date_default_timezone_set('America/Los_Angeles');
            
             <!--Contact form-->
             <div id="form-messages"></div>
-            <form class="slide-right contact-form text-center" method="post" action="contact.php" role="form" id="ajax-contact">
+            <form class="contact-form text-center" method="post" action="contact.php" role="form" id="ajax-contact">
               <div class="form-group">
                 <input class="form-control" type="text" name="name" id="name" placeholder="Full Name" required>
               </div>

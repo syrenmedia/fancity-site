@@ -21,7 +21,10 @@ $(function () {
   $('.features-slider').slick({
     dots: true,
     arrows: false,
-    infinite: false
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 5000,
+    pauseOnHover: true
   });
 
 

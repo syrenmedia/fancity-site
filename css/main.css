@@ -25,7 +25,7 @@ h6 {
 }
 
 a {
-  color: #4A8B3C;
+  color: #33B5E5;
 }
 
 a:hover {
@@ -104,9 +104,9 @@ li {
 
 .button {
   color: #fff;
-  background: #4A8B3C;
+  background: #33B5E5;
   border-radius: 5px;
-  border-color: #4A8B3C;
+  border-color: #33B5E5;
   -webkit-transition: background .5s ease-in, border-color .5s ease-in;
   transition: background .5s ease-in, border-color .5s ease-in;
   display: inline-block;
@@ -162,7 +162,7 @@ li {
 
 .social a {
   color: #fff;
-  background: #4A8B3C;
+  background: #33B5E5;
 }
 
 .social a:hover {
@@ -190,7 +190,7 @@ li {
 }
 
 .main-nav .active a {
-  background: #4A8B3C;
+  background: #33B5E5;
 }
 
 .nav>li.active>a:hover,
@@ -270,7 +270,7 @@ li {
 .site-footer h2:after {
   content: '';
   height: 1px;
-  background: #4A8B3C;
+  background: #33B5E5;
   position: absolute;
   width: 100px;
   bottom: -.8em;
@@ -312,7 +312,7 @@ li {
 
 .features .slick-dots li.slick-active button:before {
   opacity: 0.75;
-  color: #4A8B3C;
+  color: #33B5E5;
 }
 
 /* ==========================================================================
@@ -335,7 +335,7 @@ li {
 }
 
 .team .slick-dots li button:before {
-  color: #4A8B3C;
+  color: #33B5E5;
 }
 
 .team-details {

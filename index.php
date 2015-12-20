@@ -70,7 +70,7 @@ date_default_timezone_set('America/Los_Angeles');
             </div>
           </div>
           <div class="col-md-5 col-md-offset-1 visible-md visible-lg over-hide">
-            <img src="img/iphone.png" alt="App Image" class="slide-right slideInRight animated hero-img" data-plugin-options='{"reverse":true, "offset":-100}'>
+            <img src="img/iphone.png" alt="App Image" class="slideInRight animated hero-img" data-plugin-options='{"reverse":true, "offset":-100}'>
           </div>
         </div>
         <div class="row">
